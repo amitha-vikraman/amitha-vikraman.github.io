@@ -5,6 +5,7 @@
 
 body {
     font-family: 'Lato', sans-serif;
+    background: linear-gradient(to right, #f7f8f8, #acbb78);
 }
 
 .container {
@@ -19,6 +20,7 @@ body {
     font-style: normal;
     font-size: 44px;
     text-decoration: none;
+    text-shadow: 3px 3px 3px #666;
 }
 
 .heading {
